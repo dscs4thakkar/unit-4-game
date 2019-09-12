@@ -1,0 +1,79 @@
+
+
+body {
+    background-image: url("../images/crystal-bgImage.jpg");
+}
+
+
+
+.header {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #00e5ff;
+    border: 8px solid;
+    
+}
+
+.instructions {
+    width: 75%;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: silver;
+    border: 2px solid dodgerblue;
+    
+}
+
+.random-number {
+    width: 15%;
+    text-align: center;
+    background-color: #00e5ff;
+    border: 8px solid;
+    border-top-color: #00d8ff;
+    border-right-color: #00d8ff;
+    border-bottom-color: #00a9ff;
+    border-left-color: #00a9ff;
+    margin: 0 auto;
+    font-size: 60px;
+}
+
+.crystal-array {
+    text-align: center;
+    background-color: silver;
+    border: 2px solid dodgerblue;
+    width: 40%;
+    padding: 5px;
+    margin: 0 auto;
+}
+
+
+
+.total-score {
+    float: left;
+    text-align: center;
+    background-color: #00e5ff;
+    border: 8px solid;
+    border-top-color: #00d8ff;
+    border-right-color: #00d8ff;
+    border-bottom-color: #00a9ff;
+    border-left-color: #00a9ff;
+    font-size: 30px;
+    width: 25%;
+    margin: 0 auto;
+    padding: 12px;
+}
+
+.wins-loses {
+    float: right;
+    text-align: center;
+    width: 25%;
+    background-color: #00e5ff;
+    border: 8px solid;
+    border-top-color: #00d8ff;
+    border-right-color: #00d8ff;
+    border-bottom-color: #00a9ff;
+    border-left-color: #00a9ff;
+    margin: 0 auto;
+    font-size: 30px;
+}
+
